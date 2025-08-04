@@ -32,6 +32,14 @@ The Power BI dashboard provides an interactive view of the relationship between 
 You can download and open the `.pbix` file in Power BI Desktop to explore the dashboard in full:
 [Download Dashboard](Project_Are_degrees_still_important_in_tech.pbix)
 
+## 🧾 SQL & Python Files
+
+This project includes both SQL queries and Python scripts used for the data processing.
+
+### 📂 Included Files
+- `Project_degree_data.sql`
+[SQL File](Project_degree_data.sql)
+[Python File](Project_degree_data.ipynb)
 
 ## 📊 Data Source:
 This project uses data from the following Kaggle dataset:  
