@@ -22,7 +22,7 @@ Answer these questions:
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard provides an interactive view of the relationship between education level, employee performance, and attrition.
+The Power BI dashboard provides an interactive view of the relationship between education level, employee performance, and employee tenure.
 
 ### 🔍 Preview
 
