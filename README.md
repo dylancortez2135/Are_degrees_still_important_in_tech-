@@ -20,6 +20,19 @@ Answer these questions:
 2. Do they tend to stay longer (better tenure)?
 3. Do they outperform non-degree holders in performance metrics?
 
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of the relationship between education level, employee performance, and attrition.
+
+### 🔍 Preview
+
+![Dashboard Overview]()
+![Detailed View]()
+
+You can download and open the `.pbix` file in Power BI Desktop to explore the dashboard in full:
+[Download Dashboard]()
+
+
 ## 📊 Data Source:
 This project uses data from the following Kaggle dataset:  
 [HR Analytics: Employee Attrition and Performance]
