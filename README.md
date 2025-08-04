@@ -26,11 +26,11 @@ The Power BI dashboard provides an interactive view of the relationship between 
 
 ### 🔍 Preview
 
-![Dashboard Overview]()
-![Detailed View]()
+![Dashboard Page 1](Page_1.png)
+![Dashboard Page 2](Page_2.png)
 
 You can download and open the `.pbix` file in Power BI Desktop to explore the dashboard in full:
-[Download Dashboard]()
+[Download Dashboard](Project_Are_degrees_still_important_in_tech.pbix)
 
 
 ## 📊 Data Source:
