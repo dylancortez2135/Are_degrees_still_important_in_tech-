@@ -57,5 +57,5 @@ For questions, feedback, or collaboration:
 **Dylan Cortez**
 📧 cortezdylan2135@gmail.com
 
-** 📜 Note:**
+## 📜 Note:
 This analysis is based on a dataset of 843 participants. While it provides meaningful insights into trends in salary, performance, and education levels within tech roles, it may not fully represent the broader industry. Results should be interpreted as indicative, not definitive.
