@@ -58,4 +58,4 @@ For questions, feedback, or collaboration:
 📧 cortezdylan2135@gmail.com
 
 ## 📜 Note:
-This analysis is based on a dataset of 843 participants. While it provides meaningful insights into trends in salary, performance, and education levels within tech roles, it may not fully represent the broader industry. Results should be interpreted as indicative, not definitive.
+This analysis is based on a dataset of 843 participants (Only the participants in the tech industry were taken for analysis). While it provides meaningful insights into trends in salary, performance, and education levels within tech roles, it may not fully represent the broader industry. Results should be interpreted as indicative, not definitive.
