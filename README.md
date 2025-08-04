@@ -34,12 +34,13 @@ You can download and open the `.pbix` file in Power BI Desktop to explore the da
 
 ## 🧾 SQL & Python Files
 
-This project includes both SQL queries and Python scripts used for the data processing.
+This repository includes both SQL and Python files used to process and analyze the data for this project.
 
-### 📂 Included Files
-- `Project_degree_data.sql`
-[SQL File](Project_degree_data.sql)
-[Python File](Project_degree_data.ipynb)
+- 📄 [project_degree_data.sql](project_degree_data.sql)  
+  SQL queries for data processing.
+
+- 🐍 [project_degree_data.ipynb](project_degree_data.ipynb)  
+  Python codes for data processing.
 
 ## 📊 Data Source:
 This project uses data from the following Kaggle dataset:  
