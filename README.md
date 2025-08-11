@@ -47,6 +47,9 @@ This project uses data from the following Kaggle dataset:
 [HR Analytics: Employee Attrition and Performance]
 (https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
 
+This is the cleaned data:
+[project_degrees_data.csv](project_degrees_data.csv)
+
 ## 🙋‍♂️ Contributions
 Contributions, issues, and feature requests are welcome!
 If you have access to relevant datasets or would like to expand the scope, feel free to open a pull request.
